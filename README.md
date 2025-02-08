@@ -9,4 +9,4 @@ This project is a simple CPS (Clicks Per Second) counter application. It allows 
 - Reset the counter
 
 ## Screenshot
-![Project Screenshot](./images/screenshot.png)
+![Project Screenshot](./images/screenshot.PNG)
