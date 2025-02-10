@@ -2,7 +2,8 @@
 
 ## Description
 ### EN 
-This project is a simple CPS (Clicks Per Second) counter application. It allows you to measure how many clicks you can make in a second.
+This project is a simple CPS (Clicks Per Second) counter application. 
+It allows you to measure how many clicks you can make in a second.
 
 ### FR 
 Ce projet est une application de compteur de CPS (Clics par seconde).   
